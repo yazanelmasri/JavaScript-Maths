@@ -55,12 +55,12 @@ body {
     margin: 30px auto;
 }
 
-#score-1 {
-    color: #10990b;
+#score {
+    color: green;
     font-weight: bold;
 }
 
-#score-2 {
+#incorrect {
     color: red;
     font-weight: bold;
 }
